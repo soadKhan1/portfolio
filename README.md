@@ -1,4 +1,4 @@
 # Sooad Khan 
 
 
-![Alt text](file-path)
+![Alt text](./portfolio.jpeg)
